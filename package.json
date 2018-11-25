@@ -1,5 +1,5 @@
 {
-	"author": "Jane Doe",
+	"author": "James",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -14,5 +14,11 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "description":"this program does this",
+  "keywords":[
+    "key","word","freecodecamp"
+    ],
+  "license":"GIT",
+  "version": "1.2"
 }
